@@ -1,7 +1,7 @@
 body {
   font-family: Roboto, sans-serif;
   font-size: large;
-  color: #3f726e;
+  color: #407250;
   background-color: #f7fff7;
 }
 
@@ -82,7 +82,7 @@ div#splash i {
 
 a, a:visited, a:active, a:hover, a:focus {
   text-decoration: none;
-	color: #3f726e;
+	color: #407250;
 }
 
 img[src*=karen] {
