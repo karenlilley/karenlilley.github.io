@@ -64,6 +64,7 @@ div#splash {
   color: #efe;
   font-size: x-large;
   background-image: url(../img/forest.jpg);
+  text-shadow: -1px 0 grey, 0 1px grey, 1px 0 grey, 0 -1px grey;
   background-size: 100% 100%;
   background-repeat: no-repeat;
   width: 100%;
