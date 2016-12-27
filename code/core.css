@@ -94,7 +94,7 @@ img[src*=anne] {
 }
 
 @media (max-width: 800px) {
-  img[src*=anne] {
+  img[src*=karen] {
     height: 100px;
   }
 }
